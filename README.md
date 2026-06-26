@@ -23,9 +23,10 @@ Video: [Acessar vídeo](https://drive.google.com/file/d/158WmeiOALKFt0MoWuDV_fRi
 
 
 
-Grupo formado por:
-Arthur Rosa
-Augusto
-Patricia
-Rafael
-Rodrigo
+## 👥 Integrantes do Grupo
+
+* Arthur Rosa
+* Augusto
+* Patricia
+* Rafael
+* Rodrigo
